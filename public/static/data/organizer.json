@@ -1,0 +1,92 @@
+[
+  {
+    "title": "主辦單位",
+    "list": [
+      {
+        "title": "今周刊",
+        "image": "static/images/organizers/logotype1-01.png?0801",
+        "href": "https://www.businesstoday.com.tw/"
+      },
+      {
+        "title": "ESG",
+        "image": "static/images/organizers/logotype1-02.png",
+        "href": "https://esg.businesstoday.com.tw/"
+      }
+    ]
+  },
+  {
+    "title": "合辦單位",
+    "list": [
+      {
+        "title": "陳永泰公益信託",
+        "image": "static/images/organizers/logotype3-01.png",
+        "href": "https://www.auroratrust.org.tw/"
+      }
+    ]
+  },
+  {
+    "title": "協辦夥伴",
+    "list": [
+      {
+        "title": "中華郵政",
+        "image": "static/images/organizers/logotype4-01.png",
+        "href": "https://csr.post.gov.tw/post/default.jsp"
+      },
+      {
+        "title": "統一超商",
+        "image": "static/images/organizers/logotype4-02.png",
+        "href": "https://www.goodneighbor.org.tw/youngman.aspx"
+      },
+      {
+        "title": "永豐金",
+        "image": "static/images/organizers/logotype4-03.png?0801",
+        "href": "https://bank.sinopac.com/sinopacBT/index.html"
+      },
+      {
+        "title": "證交所",
+        "image": "static/images/organizers/logotype4-04.png",
+        "href": "https://www.twse.com.tw/zh/"
+      },
+      {
+        "title": "可口可樂",
+        "image": "static/images/organizers/logotype4-05.png?0801",
+        "href": "https://www.facebook.com/profile.php?id=100081792851873"
+      },
+      {
+        "title": "麥當勞",
+        "image": "static/images/organizers/logotype4-06.png",
+        "href": "https://www.mcdonalds.com/tw/zh-tw.html "
+      },
+      {
+        "title": "環球",
+        "image": "static/images/organizers/logotype4-07.png",
+        "href": "https://www.twglobalmall.com/web/global/"
+      }
+    ]
+  },
+  {
+    "title": "響應夥伴",
+    "list": [
+      {
+        "title": "美力台灣3D",
+        "image": "static/images/organizers/logotype5-01.png",
+        "href": "http://www.formosa3d.org/m/home.php"
+      },
+      {
+        "title": "綠色和平",
+        "image": "static/images/organizers/logotype5-02.png",
+        "href": "https://www.greenpeace.org/taiwan/"
+      },
+      {
+        "title": "海湧",
+        "image": "static/images/organizers/logotype5-03.png",
+        "href": "https://hiinstudio.com/"
+      },
+      {
+        "title": "洄瀾無毒",
+        "image": "static/images/organizers/logotype5-04.png",
+        "href": "http://www.hualienntx.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "孩子的書屋",
+    "image": "static/images/exhibition/list01-image.jpg",
+    "eventName": "擊壤歌",
+    "tags": [],
+    "logo": "static/images/exhibition/logo/exhibition01.png",
+    "contentImage": "static/images/exhibition/list01-content.jpg",
+    "content": {
+      "org": "產業發展及育成計畫 栽培一技之長 從小陪伴到大，為大孩子進職場做準備，我們在知本成立了擊壤歌；是台東往南迴路上少數的咖啡館，由書屋的大孩子、工作人員共同建造，以「土磚」製成的牆，讓咖啡館不同於其他水泥建築的外貌。除了是育成中心外，也希望發展產業，填補教育經費。 我們延攬在地住民，返鄉者與移居者成為夥伴，並邀請專業講師，讓大孩子學習烘焙、餐服技能，建立職場能力、培養工作態度。而收入將100%回饋給孩子的書屋，由書屋照顧長大的孩子，也能透過工作回饋給書屋。我們以產出優質商品為目標，回報社會大眾對育成中心的支持。",
+      "missiongreener": "",
+      "link": ["https://www.bookhousestore.com"]
+    }
+  },
+  {
+    "id": "2",
+    "title": "統一超商",
+    "image": "static/images/exhibition/list02-image.png",
+    "eventName": "地球永續 你我日常",
+    "tags": ["7-ELEVEN", "統一超商好鄰居文教基金會", "青年深根"],
+    "logo": "static/images/organizers/logotype4-02.png",
+    "contentImage": "static/images/exhibition/list02-content.png",
+    "content": {
+      "org": "統一超商透過好鄰居文教基金會啟動「青年深根」計畫，以最接地氣的7-ELEVEN門市，提供青年們實戰場域，落實營運及行銷的基本功。統一超商行銷團隊更加入「青年深根」計畫，成為青年的好夥伴；並針對不同的品牌成長曲線，展開了三階段陪伴計畫，從「線上銷售、單點門市銷售、全台門市銷售」，為團隊打開線上通路、與市場接軌，同時針對青年團隊具有商品力的品項，提供商品上架的實戰場域，提升團隊行銷營運能力。",
+      "missiongreener": "",
+      "link": ["https://www.goodneighbor.org.tw/youngman.aspx"]
+    }
+  },
+  {
+    "id": "3",
+    "title": "麥當勞",
+    "image": "static/images/exhibition/list03-image.png",
+    "eventName": "",
+    "tags": [],
+    "logo": "static/images/organizers/logotype4-06.png",
+    "contentImage": "static/images/exhibition/list03-content.png",
+    "content": {
+      "org": "麥當勞是全世界最大的快速餐飲服務餐廳領導品牌。全世界超過100個國家、近38,000家餐廳，每天提供超值美味的麥當勞餐飲。",
+      "missiongreener": "和德昌麥當勞關心環保及環境永續議題，持續累積小改變，希望與消費者一起促成大美好。",
+      "link": ["https://www.mcdonalds.com/tw/zh-tw.html"]
+    }
+  }
+]
