@@ -28,6 +28,20 @@
     }
   },
   {
+    "id": "4",
+    "title": "永豐生活「淨零綠動未來」",
+    "image": "static/images/exhibition/list04-image.png",
+    "eventName": "響應淨零 我們一起+1",
+    "tags": ["淨零綠動未來", "永豐生活", "汗水不白流"],
+    "logo": "static/images/organizers/logotype4-03.png",
+    "contentImage": "static/images/exhibition/list04-image.png",
+    "content": {
+      "org": "永豐金控善盡企業之責，率先響應2022年3月通過企業淨目標，承諾2030年前自身營運淨零排放，2050年前達成全資產組合淨零排放，以實際行動為地球永續盡一份心力。",
+      "missiongreener": "響應淨零綠地球，我們一起+1",
+      "link": ["https://bank.sinopac.com/sinopacBT/about/sustainableFinance/responsible/products-services.html"]
+    }
+  },
+  {
     "id": "3",
     "title": "麥當勞",
     "image": "static/images/exhibition/list03-image.png",
@@ -39,6 +53,20 @@
       "org": "麥當勞是全世界最大的快速餐飲服務餐廳領導品牌。全世界超過100個國家、近38,000家餐廳，每天提供超值美味的麥當勞餐飲。",
       "missiongreener": "和德昌麥當勞關心環保及環境永續議題，持續累積小改變，希望與消費者一起促成大美好。",
       "link": ["https://www.mcdonalds.com/tw/zh-tw.html"]
+    }
+  },
+  {
+    "id": "5",
+    "title": "歐都納衣起淨零",
+    "image": "static/images/exhibition/list05-image.png",
+    "eventName": "Together wear clean",
+    "tags": ["歐都納衣起淨零", "ALLLOVE歐愛循環衣"],
+    "logo": "static/images/organizers/logotype4-14.png",
+    "contentImage": "static/images/exhibition/list05-content.png",
+    "content": {
+      "org": "<p class='mb-2'>歐都納創立48年以來，致力於環境保護及公益行動，目前超過90%的供應商都獲得綠色環保標誌，在2014年成為全台第一家通過國內和國際碳足跡盤查的品牌，目標在2031年成為亞洲最環保的戶外品牌。</p><p>今年推出歐都納第1件100%可回收/循環/再重製的ALL LOVE歐愛循環衣，從布料到織標、鈕扣、車縫線、印刷油墨，整合成為單一材質，並推動全台首創MIT戶外紡織品循環圈，串起紡織產業鏈，落實從搖籃到搖籃的綠色循環。</p>",
+      "missiongreener": "歐都納衣起淨零，together wear clean",
+      "link": ["https://linktr.ee/all_love_ecocircular"]
     }
   }
 ]

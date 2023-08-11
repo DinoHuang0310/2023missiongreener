@@ -43,9 +43,24 @@
         "href": "https://bank.sinopac.com/sinopacBT/index.html"
       },
       {
+        "title": "麥當勞",
+        "image": "static/images/organizers/logotype4-06.png",
+        "href": "https://www.mcdonalds.com/tw/zh-tw.html "
+      },
+      {
         "title": "證交所",
         "image": "static/images/organizers/logotype4-04.png",
         "href": "https://www.twse.com.tw/zh/"
+      },
+      {
+        "title": "頂新和德(好食好事)",
+        "image": "static/images/organizers/logotype4-10.png",
+        "href": "https://www.hao-shi.org/tw/"
+      },
+      {
+        "title": "環球",
+        "image": "static/images/organizers/logotype4-07.png",
+        "href": "https://www.twglobalmall.com/web/global/"
       },
       {
         "title": "可口可樂",
@@ -53,14 +68,24 @@
         "href": "https://www.facebook.com/profile.php?id=100081792851873"
       },
       {
-        "title": "麥當勞",
-        "image": "static/images/organizers/logotype4-06.png",
-        "href": "https://www.mcdonalds.com/tw/zh-tw.html "
+        "title": "花蓮縣政府",
+        "image": "static/images/organizers/logotype4-12.png",
+        "href": "https://hlepb-lowcarbon.easylife.net.tw/"
       },
       {
-        "title": "環球",
-        "image": "static/images/organizers/logotype4-07.png",
-        "href": "https://www.twglobalmall.com/web/global/"
+        "title": "台灣雀巢",
+        "image": "static/images/organizers/logotype4-13.png",
+        "href": "https://www.nespresso.com/tw/"
+      },
+      {
+        "title": "歐都納",
+        "image": "static/images/organizers/logotype4-14.png",
+        "href": "https://www.atunas.com.tw/tw"
+      },
+      {
+        "title": "義美",
+        "image": "static/images/organizers/logotype4-15.png",
+        "href": "https://www.imeifoods.com.tw/"
       }
     ]
   },
@@ -86,6 +111,11 @@
         "title": "洄瀾無毒",
         "image": "static/images/organizers/logotype5-04.png",
         "href": "http://www.hualienntx.com/"
+      },
+      {
+        "title": "娘家",
+        "image": "static/images/organizers/logotype5-05.png",
+        "href": "https://www.ftvmall.com.tw/link/596/"
       }
     ]
   }
