@@ -43,5 +43,19 @@
         "https://www.instagram.com/bonaqua.tw/"
       ]
     }
+  },
+  {
+    "id": "4",
+    "title": "自綠生活 永續創新",
+    "image": "static/images/exhibition/list06-image.png",
+    "eventName": "",
+    "tags": ["中華郵政", "永續創新", "百年厝邊"],
+    "logo": "static/images/organizers/logotype4-01.png",
+    "contentImage": "static/images/exhibition/list06-content.png",
+    "content": {
+      "org": "中華郵政是誠信服務大家信賴的百年品牌，服務內容包括儲金、匯兌、郵務、壽險、集郵及郵政資產營運等核心項目，透過持續創新，不斷精進數位科技發展與數據應用，優化顧客體驗、創新商業模式、落實永續發展。",
+      "missiongreener": "",
+      "link": ["https://csr.post.gov.tw/post/default.jsp"]
+    }
   }
 ]

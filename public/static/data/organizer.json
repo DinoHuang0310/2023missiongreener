@@ -33,6 +33,16 @@
         "href": "https://csr.post.gov.tw/post/default.jsp"
       },
       {
+        "title": "悠遊卡",
+        "image": "static/images/organizers/logotype4-08.png",
+        "href": "https://www.easycard.com.tw/"
+      },
+      {
+        "title": "悠遊付",
+        "image": "static/images/organizers/logotype4-09.png",
+        "href": "https://easywallet.easycard.com.tw/join/"
+      },
+      {
         "title": "統一超商",
         "image": "static/images/organizers/logotype4-02.png",
         "href": "https://www.goodneighbor.org.tw/youngman.aspx"

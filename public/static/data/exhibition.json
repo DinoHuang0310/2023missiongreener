@@ -14,6 +14,20 @@
     }
   },
   {
+    "id": "6",
+    "title": "自綠生活 永續創新",
+    "image": "static/images/exhibition/list06-image.png",
+    "eventName": "",
+    "tags": ["中華郵政", "永續創新", "百年厝邊"],
+    "logo": "static/images/organizers/logotype4-01.png",
+    "contentImage": "static/images/exhibition/list06-content.png",
+    "content": {
+      "org": "中華郵政是誠信服務大家信賴的百年品牌，服務內容包括儲金、匯兌、郵務、壽險、集郵及郵政資產營運等核心項目，透過持續創新，不斷精進數位科技發展與數據應用，優化顧客體驗、創新商業模式、落實永續發展。",
+      "missiongreener": "",
+      "link": ["https://csr.post.gov.tw/post/default.jsp"]
+    }
+  },
+  {
     "id": "2",
     "title": "統一超商",
     "image": "static/images/exhibition/list02-image.png",
@@ -30,11 +44,11 @@
   {
     "id": "4",
     "title": "永豐生活「淨零綠動未來」",
-    "image": "static/images/exhibition/list04-image.png",
+    "image": "static/images/exhibition/list04-image.png?0818",
     "eventName": "響應淨零 我們一起+1",
     "tags": ["淨零綠動未來", "永豐生活", "汗水不白流"],
     "logo": "static/images/organizers/logotype4-03.png",
-    "contentImage": "static/images/exhibition/list04-image.png",
+    "contentImage": "static/images/exhibition/list04-content.png",
     "content": {
       "org": "永豐金控善盡企業之責，率先響應2022年3月通過企業淨目標，承諾2030年前自身營運淨零排放，2050年前達成全資產組合淨零排放，以實際行動為地球永續盡一份心力。",
       "missiongreener": "響應淨零綠地球，我們一起+1",
