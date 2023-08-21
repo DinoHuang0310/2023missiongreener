@@ -1,35 +1,37 @@
 <template>
   <div>
-    <div class="relative flex">
-      <div v-if="showNavigation" class="w-10">
+    <div class="relative">
+      <div v-if="showNavigation" class="absolute w-10 h-full left-0 top-0">
         <div class="swiper-button-prev" ref="prevRef" />
       </div>
 
-      <div class="swiper flex-1" ref="swiperRef">
-        <div class="swiper-wrapper">
-          <!-- Slides -->
-          <div class="swiper-slide" v-for="(list, index) in sliderData" :key="list.index">
-            <template v-if="$slots.listItem">
-              <slot name="listItem" :item="list" :index="index" />
-            </template>
-            
-            <a
-              v-else
-              :href="list.url"
-              target="blank"
-              class="relative block w-full aspect-[4/3] bg-cover bg-center cursor-pointer duration-300 hover:opacity-75"
-              :style="{'background-image': `url('${list.image}')`}"
-            >
-              <p class="absolute w-full bottom-0 left-0 px-3 py-2 text-white bg-black/60">
-                <span class="line-clamp-2 text-base">{{ list.title }}</span>
-              </p>
-            </a>
+      <div :class="[showNavigation && 'px-10']">
+        <div class="swiper" ref="swiperRef">
+          <div class="swiper-wrapper">
+            <!-- Slides -->
+            <div class="swiper-slide" v-for="(list, index) in sliderData" :key="list.index">
+              <template v-if="$slots.listItem">
+                <slot name="listItem" :item="list" :index="index" />
+              </template>
+              
+              <a
+                v-else
+                :href="list.url"
+                target="blank"
+                class="relative block w-full aspect-[4/3] bg-cover bg-center cursor-pointer duration-300 hover:opacity-75"
+                :style="{'background-image': `url('${list.image}')`}"
+              >
+                <p class="absolute w-full bottom-0 left-0 px-3 py-2 text-white bg-black/60">
+                  <span class="line-clamp-2 text-base">{{ list.title }}</span>
+                </p>
+              </a>
+            </div>
           </div>
         </div>
       </div>
       
-      <div v-if="showNavigation" class="w-10">
-        <div v-if="showNavigation" class="swiper-button-next" ref="nextRef" />
+      <div v-if="showNavigation" class="absolute w-10 h-full right-0 top-0">
+        <div class="swiper-button-next" ref="nextRef" />
       </div>
     </div>
 
