@@ -45,7 +45,7 @@
       <VueFinalModal
         v-model="showModal"
         class="flex justify-center items-center"
-        content-class="flex flex-col max-w-sm max-h-3/4 overflow-auto m-4 bg-white dark:bg-gray-900 border dark:border-gray-700 rounded-lg"
+        content-class="flex flex-col max-w-sm max-h-3/4 overflow-auto m-4 bg-white border rounded-lg"
         :reserveScrollBarGap="false"
       >
         <div class="p-4 py-8">
@@ -93,14 +93,14 @@
           <h4 class="text-xl font-bold mb-4">早鳥預約報名:</h4>
           <div class="sm:flex sm:items-center space-y-6 sm:space-y-0">
             <div :class="stepBox">
-              <img class="w-1/3" src="../../assets/images/event-step1.png" alt="step1. 線上報名，取得序號">
+              <img class="w-24 md:w-32" src="../../assets/images/event-step1.png" alt="step1. 線上報名，取得序號">
               <div class="flex-1 pl-6">
                 <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">step1</label>
                 <p>線上立即報名、填資料</p>
               </div>
             </div>
             <div :class="stepBox">
-              <img class="w-1/3" src="../../assets/images/event-step4.png" alt="step2. 現場報到">
+              <img class="w-24 md:w-32" src="../../assets/images/event-step4.png" alt="step2. 現場報到">
               <div class="flex-1 pl-6">
                 <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">step2</label>
                 <p>現場報到，核對資料，報到完成即可獲得早鳥禮​</p>

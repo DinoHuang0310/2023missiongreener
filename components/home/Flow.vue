@@ -69,7 +69,7 @@
     <VueFinalModal
       v-model="showModal"
       class="flex justify-center items-center"
-      content-class="flex flex-col max-w-sm max-h-3/4 overflow-auto m-4 p-4 bg-white dark:bg-gray-900 border dark:border-gray-700 rounded-lg"
+      content-class="flex flex-col max-w-sm max-h-3/4 overflow-auto m-4 p-4 bg-white border rounded-lg"
       @beforeClose="closeModal"
       :reserveScrollBarGap="false"
     >

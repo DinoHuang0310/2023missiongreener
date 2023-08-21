@@ -61,7 +61,7 @@
     <VueFinalModal
       v-model="showModal"
       class="flex justify-center items-center"
-      content-class="flex flex-col max-w-lg max-h-[70vh] overflow-auto m-4 p-4 pt-0 bg-white dark:bg-gray-900 border dark:border-gray-700 rounded-lg"
+      content-class="flex flex-col max-w-lg max-h-[70vh] overflow-auto m-4 p-4 pt-0 bg-white border rounded-lg"
     >
       <div class="flex justify-between bg-white sticky top-0 py-4 pb-2">
         <div class="w-1/2 sm:w-2/5">

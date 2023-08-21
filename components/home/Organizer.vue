@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white bg-repeat py-16 sm:py-24" :style="{'background-image': `url(${bgImage})`}">
+  <div class="bg-white dark:bg-gray-100 bg-repeat py-16 sm:py-24" :style="{'background-image': `url(${bgImage})`}">
     <div class="container space-y-16 md:space-y-8 sm:w-11/12 xl:w-full">
       <table class="block md:table w-full" v-for="group in data" :key="group.index">
         <tbody class="block md:table-row-group">

@@ -95,7 +95,7 @@
     <VueFinalModal
       v-model="showModal"
       class="flex justify-center items-center"
-      content-class="flex flex-col max-w-xl max-h-3/4 overflow-auto m-4 p-4 bg-white dark:bg-gray-900 border dark:border-gray-700 rounded-lg"
+      content-class="flex flex-col max-w-xl max-h-3/4 overflow-auto m-4 p-4 bg-white border rounded-lg"
       :reserveScrollBarGap="false"
     >
       <div>
@@ -108,7 +108,7 @@
     <VueFinalModal
       v-model="signupSuccess"
       class="flex justify-center items-center"
-      content-class="relative flex flex-col max-w-xl max-h-3/4 overflow-auto m-4 p-4 bg-white dark:bg-gray-900 border dark:border-gray-700 rounded-lg"
+      content-class="relative flex flex-col max-w-xl max-h-3/4 overflow-auto m-4 p-4 bg-white border rounded-lg"
       :reserveScrollBarGap="false"
       :clickToClose="false"
     >
