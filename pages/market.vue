@@ -103,6 +103,13 @@
           <div v-html="activeData.content.missiongreener"></div>
         </article>
 
+        <article v-if="activeData.content.event">
+          <h4 class="mb-1">
+            <span class="inline-block bg-primary text-white px-2 py-1 rounded">攤位活動</span>
+          </h4>
+          <div v-html="activeData.content.event"></div>
+        </article>
+
         <div v-if="activeData.content.link.length">
           <h4 class="mb-1">
             <span class="inline-block bg-primary text-white px-2 py-1 rounded">官方網站</span>
