@@ -10,6 +10,7 @@
     "content": {
       "org": "產業發展及育成計畫 栽培一技之長 從小陪伴到大，為大孩子進職場做準備，我們在知本成立了擊壤歌；是台東往南迴路上少數的咖啡館，由書屋的大孩子、工作人員共同建造，以「土磚」製成的牆，讓咖啡館不同於其他水泥建築的外貌。除了是育成中心外，也希望發展產業，填補教育經費。 我們延攬在地住民，返鄉者與移居者成為夥伴，並邀請專業講師，讓大孩子學習烘焙、餐服技能，建立職場能力、培養工作態度。而收入將100%回饋給孩子的書屋，由書屋照顧長大的孩子，也能透過工作回饋給書屋。我們以產出優質商品為目標，回報社會大眾對育成中心的支持。",
       "missiongreener": "",
+      "event": "",
       "link": ["https://www.bookhousestore.com"]
     }
   },
@@ -23,8 +24,24 @@
     "contentImage": "static/images/exhibition/list06-content.png",
     "content": {
       "org": "中華郵政是誠信服務大家信賴的百年品牌，服務內容包括儲金、匯兌、郵務、壽險、集郵及郵政資產營運等核心項目，透過持續創新，不斷精進數位科技發展與數據應用，優化顧客體驗、創新商業模式、落實永續發展。",
-      "missiongreener": "",
+      "missiongreener": "中華郵政維持百年初衷，與你攜手實踐創新永續，擴大在地共榮圈。",
+      "event": "闖關禮物製作飲料提袋（1000個）自綠小盆栽（1000個）",
       "link": ["https://csr.post.gov.tw/post/default.jsp"]
+    }
+  },
+  {
+    "id": "7",
+    "title": "嗶悠遊卡 減碳好幫手！",
+    "image": "static/images/exhibition/list07-image.png",
+    "eventName": "想知道自己的減碳成果？!",
+    "tags": ["EasyWallet我的碳排紀錄", "悠遊卡/悠遊付"],
+    "logo": "static/images/exhibition/logo/exhibition07.png",
+    "contentImage": "static/images/exhibition/list07-image.png",
+    "content": {
+      "org": "<p class='mb-2'>悠遊卡發行已超過20年，至今，悠遊卡流通卡數超過1億張，支付點遍佈全台突破25萬處，提供民眾在食、衣、住、行、育、樂各方面，都能享受最便利的支付體驗，更是全台大眾運輸工具最主要的支付工具，是台灣綠色運輸重要的一環。</p><p>從交通票證到小額消費，到推出電子支付─悠遊付，悠遊卡公司建構了完整的支付生態圈，以便利、安全、信任、公益四大核心價值，期許與台灣民眾共同邁向美好的無現金生活。</p>",
+      "missiongreener": "嗶悠遊卡 加入減碳行列",
+      "event": "",
+      "link": ["https://www.easycard.com.tw"]
     }
   },
   {
@@ -38,6 +55,7 @@
     "content": {
       "org": "統一超商透過好鄰居文教基金會啟動「青年深根」計畫，以最接地氣的7-ELEVEN門市，提供青年們實戰場域，落實營運及行銷的基本功。統一超商行銷團隊更加入「青年深根」計畫，成為青年的好夥伴；並針對不同的品牌成長曲線，展開了三階段陪伴計畫，從「線上銷售、單點門市銷售、全台門市銷售」，為團隊打開線上通路、與市場接軌，同時針對青年團隊具有商品力的品項，提供商品上架的實戰場域，提升團隊行銷營運能力。",
       "missiongreener": "",
+      "event": "<ol class='list-decimal pl-6'><li>現場加入7-ELEVEN 把愛找回來IG送咖啡提貨券(限量500名)</li><li>現場拍下統一超商攤位照片並公開上傳個人IG或FB，即可抽200元商品卡(10名)</li></ol>",
       "link": ["https://www.goodneighbor.org.tw/youngman.aspx"]
     }
   },
@@ -52,6 +70,7 @@
     "content": {
       "org": "永豐金控善盡企業之責，率先響應2022年3月通過企業淨目標，承諾2030年前自身營運淨零排放，2050年前達成全資產組合淨零排放，以實際行動為地球永續盡一份心力。",
       "missiongreener": "響應淨零綠地球，我們一起+1",
+      "event": "凡回答問題後，下載APP，即可以憑轉輪盤獲得獎品",
       "link": ["https://bank.sinopac.com/sinopacBT/about/sustainableFinance/responsible/products-services.html"]
     }
   },
@@ -66,7 +85,53 @@
     "content": {
       "org": "麥當勞是全世界最大的快速餐飲服務餐廳領導品牌。全世界超過100個國家、近38,000家餐廳，每天提供超值美味的麥當勞餐飲。",
       "missiongreener": "和德昌麥當勞關心環保及環境永續議題，持續累積小改變，希望與消費者一起促成大美好。",
+      "event": "",
       "link": ["https://www.mcdonalds.com/tw/zh-tw.html"]
+    }
+  },
+  {
+    "id": "8",
+    "title": "農業永續ESG-農業部邀請企業共創多贏",
+    "image": "static/images/exhibition/list08-image.png",
+    "eventName": "公私協力，多贏互利！",
+    "tags": ["淨零永續", "生態保育", "暖心農村"],
+    "logo": "static/images/organizers/logotype4-11.png",
+    "contentImage": "static/images/exhibition/list08-content.png",
+    "content": {
+      "org": "ESG係指環境(Environment)、社會責任(Social)及公司治理(Governance)，是用於評估企業能否永續經營的重要指標，農業部目前推出農業永續ESG專案可分成淨零永續、生態保育、暖心農村三大領域，各領域再向下開展不同類別，其中淨零永續領域項下包含植生造林、循環農業、綠色農食等，生態保育領域項下包含陸域棲地、海域棲地、特定物種等，暖心農村領域項下包含零飢餓、農村文化、技藝傳承等，共計9項專案類別，並將專案結合對應永續指標(SDGs)，協助企業評估各項專案與企業自身設定之永續責任關聯性；此外，農業部也鼓勵企業可透過自行提案創造更多合作可能，透過公私協力，引入企業資源協助農業發展，並回應企業ESG揭露需求，共創多贏互利。",
+      "missiongreener": "公私協力，多贏互利",
+      "event": "",
+      "link": ["https://ccpo.moa.gov.tw/index.php"]
+    }
+  },
+  {
+    "id": "9",
+    "title": "崇越集團",
+    "image": "static/images/exhibition/list09-image.png",
+    "eventName": "淨零綠生活",
+    "tags": ["全魚利用", "循環經濟", "負責任生產"],
+    "logo": "static/images/organizers/logotype4-16.png",
+    "contentImage": "static/images/exhibition/list09-content.png",
+    "content": {
+      "org": "崇越集團以高科技產業扎實的經驗，縱向整合商務模式、橫向連結產業資源，將能源、環保、民生與運動健康等領域納入集團網絡中，提供國人完善的全方位生活提案。",
+      "missiongreener": "崇越集團致力樹立幸福生活的樣本",
+      "event": "",
+      "link": ["https://esg.topco-global.com/"]
+    }
+  },
+  {
+    "id": "10",
+    "title": "恆隆行「永續生活: 循環新選擇」",
+    "image": "static/images/exhibition/list10-image.png",
+    "eventName": "不完美但可循環的選擇",
+    "tags": ["refresh回收再循環計畫", "restyle2050永續循環經濟平台", "hengstyle 永續生活"],
+    "logo": "static/images/organizers/logotype4-19.png",
+    "contentImage": "static/images/exhibition/list10-content.png",
+    "content": {
+      "org": "恆隆行創立於1960年，豐富生活的無限想像是公司的企業願景，提供消費者更永續的生活選擇則是我們的持續進行式，我們的永續理念與生活選擇密不可分。我們致力於打造恆式生活，引進國外高質感品牌及商品，是我們對永續生活選擇的另一種追求及倡議；是科技創新，也是精實生產且用料減量的更耐久產品；是品味形塑、酷炫潮流，也是循環使用且減少一次性消費的減塑產品。",
+      "missiongreener": "共同打造永續且可循環的新生活樣態",
+      "event": "[SignAct簽下你的永續主張] 現場將展示恆隆行restyle2050平台A-級產品，因展示而泛黃的清淨機，取下其泛黃機殼，邀請消費者支持自綠並簽名行動，蒐集大家的響應，會後活動中的特殊清淨機的販售所得將捐於相關環境組織或單位，發揮循環影響力。",
+      "link": ["https://www.hengstyle.com/"]
     }
   },
   {
@@ -80,7 +145,23 @@
     "content": {
       "org": "<p class='mb-2'>歐都納創立48年以來，致力於環境保護及公益行動，目前超過90%的供應商都獲得綠色環保標誌，在2014年成為全台第一家通過國內和國際碳足跡盤查的品牌，目標在2031年成為亞洲最環保的戶外品牌。</p><p>今年推出歐都納第1件100%可回收/循環/再重製的ALL LOVE歐愛循環衣，從布料到織標、鈕扣、車縫線、印刷油墨，整合成為單一材質，並推動全台首創MIT戶外紡織品循環圈，串起紡織產業鏈，落實從搖籃到搖籃的綠色循環。</p>",
       "missiongreener": "歐都納衣起淨零，together wear clean",
+      "event": "<p class='mb-2'>闖關名稱：歐愛淨零</p><p>活動辦法：<br>追蹤歐都納Instagram/Youtube頻道，並於攤位拍照上傳至指定貼文留言，完成通關</p>",
       "link": ["https://linktr.ee/all_love_ecocircular"]
+    }
+  },
+  {
+    "id": "11",
+    "title": "義美",
+    "image": "static/images/exhibition/list11-image.png",
+    "eventName": "",
+    "tags": [],
+    "logo": "static/images/organizers/logotype4-15.png",
+    "contentImage": "static/images/exhibition/list11-content.png",
+    "content": {
+      "org": "義美食品創立於1934年，今年將邁入90週年，秉持兩大經營理念<br>「做餅是老實人的行業、是良心的事業！」<br>「勤儉是家本、是國本，更是環保的根本！」<br>實實在在的精神始終如一，致力成為好食品的供應者。",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.imeifoods.com.tw/"]
     }
   }
 ]

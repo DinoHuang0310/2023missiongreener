@@ -62,7 +62,7 @@
         <img class="hidden md:block absolute bottom-0 right-0 translate-x-3/4 translate-y-1/10" src="../../assets/images/adornment-potted2.png" alt="">
       </ContentBox>
 
-      <!--
+      <!--  
       <ContentBox class="relative p-4 md:p-8 2xl:py-12 rounded-tl-none sm:rounded-tl-none mb-8 sm:mb-32">
         <div class="absolute top-0 left-0 w-full sm:w-auto -translate-y-full bg-primary text-white sm:text-lg font-bold text-center px-4 py-2 pr-2 rounded-tl-md rounded-tr-md">
           自綠生活節吃喝玩樂悠遊付! 筆筆享最高12%
@@ -77,7 +77,7 @@
               <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">活動一</label>
               <p>活動期間於「自綠生活節」活動店家使用悠遊付消費，筆筆享10%現金回饋，單筆回饋上限新臺幣(下同)50元，每人(戶)回饋上限200元。本活動總回饋金上限10萬元，送完為止。</p>
               <ul class="list-['※'] pl-5 mt-2 text-primary text-sm font-bold">
-                <li>本活動可與「天天悠遊付筆筆回饋2%」活動疊加，活動期間於「自綠生活節」活動店家使用悠遊付消費，每筆扣款最高享12%悠遊付回饋金。</li>
+                <li>本活動可與<a class="underline" href="https://bit.ly/45dtY98" target="blank">「天天悠遊付筆筆回饋2%」</a>活動疊加，活動期間於「自綠生活節」活動店家使用悠遊付消費，每筆扣款最高享12%悠遊付回饋金。</li>
               </ul>
             </div>
           </div>
@@ -93,6 +93,21 @@
                 <li>活動期間每人限贈1 張，每日限量100張，數量有限，送完為止。</li>
               </ul>
             </div>
+          </div>
+          
+          <div class="md:px-8 space-y-2">
+            <ul class="list-['★'] pl-5">
+              <li>
+                現在加入悠遊付新會員，即贈價值新台幣<a class="underline text-yellow" href="https://lihi2.com/Zzhz7" target="blank">300元迎新大禮包</a>
+                <div class="w-1/2 sm:w-1/5 mx-auto my-2">
+                  <a href="https://lihi2.com/JRbRj" target="blank"><img src="../../assets/images/easywallet-qrcode.jpg" alt="下載悠遊付"></a>
+                  <p class="text-center">下載悠遊付</p>
+                </div>
+              </li>
+              <li>回饋金達檻順序以交易日期時間之先後認定，先消費先享回饋。</li>
+              <li>本活動適用悠遊付錢包/綁定銀行帳戶/綁定信用卡扣款，皆計入回饋金額計算。</li>
+              <li>請下載/更新最新版本悠遊付APP，可查詢消費紀錄及回饋進度等資訊。(回饋進度查詢：APP首頁>點擊「筆筆享回饋」>進入活動列表>點擊本活動頁)</li>
+            </ul>
           </div>
         </div>
 
@@ -126,13 +141,13 @@
     >
       <div class="space-y-2">
         <h4 class="text-xl text-primary font-bold">自綠生活節吃喝玩樂悠遊付! 筆筆享最高12%</h4>
-        <p class="font-bold">活動期間：<br class="md:hidden"><span class="font-normal">2023/9/16 09:00~9/17 23:59 (六、日兩天)</span></p>
+        <p class="font-bold">活動期間：<br class="md:hidden"><span class="font-normal">2023/9/16 10:00~9/17 18:30 (六、日兩天)</span></p>
         <p class="font-bold">活動內容：</p>
         <div>
           <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">活動一</label>
           <p>活動期間於「自綠生活節」活動店家使用悠遊付消費，筆筆享10%現金回饋，單筆回饋上限新臺幣(下同)50元，每人(戶)回饋上限200元。本活動總回饋金上限10萬元，送完為止。</p>
           <div class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary">
-            本活動可與「天天悠遊付筆筆回饋2%」活動疊加，活動期間於「自綠生活節」活動店家使用悠遊付消費，每筆扣款最高享12%悠遊付回饋金。
+            本活動可與<a class="underline" href="https://bit.ly/45dtY98" target="blank">「天天悠遊付筆筆回饋2%」</a>活動疊加，活動期間於「自綠生活節」活動店家使用悠遊付消費，每筆扣款最高享12%悠遊付回饋金。
           </div>
         </div>
         <div>
@@ -148,15 +163,12 @@
         <br>
         <ul class="list-['★'] pl-5">
           <li>
-            搶先下載<a class="text-yellow underline" href="https://lihi2.com/JRbRj" target="blank">悠遊付</a>
-            <br>(現在加入新會員，即贈價值新臺幣300元迎新大禮包)
+            現在加入悠遊付新會員，即贈價值新台幣<a class="underline text-yellow" href="https://lihi2.com/Zzhz7" target="blank">300元迎新大禮包</a>
+            <div class="w-1/2 sm:w-1/3 mx-auto my-2">
+              <a href="https://lihi2.com/JRbRj" target="blank"><img src="../../assets/images/easywallet-qrcode.jpg" alt="下載悠遊付"></a>
+              <p class="text-center">下載悠遊付</p>
+            </div>
           </li>
-        </ul>
-        <div class="w-1/2 sm:w-1/3 mx-auto">
-          <a href="https://lihi2.com/JRbRj" target="blank"><img src="../../assets/images/easywallet-qrcode.jpg" alt="下載悠遊付"></a>
-          <p class="text-center">下載悠遊付</p>
-        </div>
-        <ul class="list-['★'] pl-5">
           <li>回饋金達檻順序以交易日期時間之先後認定，先消費先享回饋。</li>
           <li>本活動適用悠遊付錢包/綁定銀行帳戶/綁定信用卡扣款，皆計入回饋金額計算。</li>
           <li>請下載/更新最新版本悠遊付APP，可查詢消費紀錄及回饋進度等資訊。(回饋進度查詢：APP首頁>點擊「筆筆享回饋」>進入活動列表>點擊本活動頁)</li>

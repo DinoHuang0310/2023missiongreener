@@ -45,6 +45,15 @@
     "image": "static/images/speakers/speaker04.png"
   },
   {
+    "id": "9",
+    "name": "卞文俊",
+    "title": "恆隆行貿易股份有限公司/長期發展室經理",
+    "lecture": "永續價值驅動下的不完美經濟",
+    "time": "9/17(日) 11:00-11:50",
+    "description": "現任恆隆行長期發展室策略新創部經理，負責公司新商務策略、新零售商模及ESG永續價值推動，協助公司發起聚焦延伸產品生命週期，以不完美經濟為主軸的restyle2050循環經濟平台，以舊空氣清淨機及其濾網耗材回收後再循環應用的refresh計畫。",
+    "image": "static/images/speakers/speaker09.png"
+  },
+  {
     "id": "5",
     "name": "薛紹芸",
     "title": "財團法人綠色和平基金會-海洋環境教育行動者",

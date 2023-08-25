@@ -10,6 +10,7 @@
     "content": {
       "org": "<p class='mb-2'>綠色和平是一個獨立的全球性環保組織，致力於以實際行動推動積極的改變，保護地球環境與世界和平。</p><p>我們透過研究、教育和遊說工作，推動政府、企業和社會大眾共同尋求環境問題的解決方案。成立於1971年，綠色和平在全球超過55個國家設有28間全國或區域辦公室，擁有超過300萬名支持者，為了維持公正性和獨立性，綠色和平不接受任何政府、企業或政治團體的資助，只接受個人和獨立基金的直接捐款， 我們的願景，是確保地球得以持續孕育多樣且豐富的生命。</p>",
       "missiongreener": "",
+      "event": "",
       "link": ["https://www.greenpeace.org/taiwan/"]
     }
   },
@@ -24,24 +25,8 @@
     "content": {
       "org": "美力台灣──全台首部3D行動電影院，用影像作為途徑，以3D電影車做為平台，誘發學童在生命、環境、科技、綠能之教育義涵。帶學童開啟視野，啟發夢想。自2009年展開第一場3D偏鄉巡演，至今，超過13年，一直在路上，用行動去實踐，用影像與教育為學童扎根。",
       "missiongreener": "",
+      "event": "",
       "link": ["http://www.formosa3d.org/m/home.php"]
-    }
-  },
-  {
-    "id": "3",
-    "title": "bonaqua怡漾",
-    "image": "static/images/market/list03-image.png",
-    "eventName": "無標籤鹼性水–減碳循環站",
-    "tags": ["bonaqua怡漾", "全品項採用百分之百環保再生塑料", "無標籤鹼性水"],
-    "logo": "static/images/organizers/logotype4-05.png",
-    "contentImage": "static/images/market/list03-content.png",
-    "content": {
-      "org": "「bonaqua怡漾」為台灣首個應用rPET環保再生塑料(rPET，Recycled PET再生聚酯粒)的瓶裝水品牌，與原生寶特瓶相比，rPET在製程中可減少63%的碳排放量，而每支「bonaqua怡漾」都是由1到1.5支回收過後的寶特瓶製成，其無標籤的設計更可大幅減少回收時分離廢棄瓶罐與標籤的繁複程序，不僅讓資源循環最大化，也對環境更友善。我們鼓勵消費者外出自帶水杯/壼，但出門在外總有不方便時，「bonaqua怡漾」則是希望提供消費者在需要購買瓶裝水時一個相對環保的選擇。",
-      "missiongreener": "",
-      "link": [
-        "https://www.facebook.com/profile.php?id=100081792851873",
-        "https://www.instagram.com/bonaqua.tw/"
-      ]
     }
   },
   {
@@ -55,7 +40,26 @@
     "content": {
       "org": "中華郵政是誠信服務大家信賴的百年品牌，服務內容包括儲金、匯兌、郵務、壽險、集郵及郵政資產營運等核心項目，透過持續創新，不斷精進數位科技發展與數據應用，優化顧客體驗、創新商業模式、落實永續發展。",
       "missiongreener": "",
+      "event": "闖關禮物製作飲料提袋（1000個）",
       "link": ["https://csr.post.gov.tw/post/default.jsp"]
+    }
+  },
+  {
+    "id": "3",
+    "title": "bonaqua怡漾",
+    "image": "static/images/market/list03-image.png",
+    "eventName": "無標籤鹼性水–減碳循環站",
+    "tags": ["bonaqua怡漾", "全品項採用百分之百環保再生塑料", "無標籤鹼性水"],
+    "logo": "static/images/organizers/logotype4-05.png",
+    "contentImage": "static/images/market/list03-content.png",
+    "content": {
+      "org": "「bonaqua怡漾」為台灣首個應用rPET環保再生塑料(rPET，Recycled PET再生聚酯粒)的瓶裝水品牌，與原生寶特瓶相比，rPET在製程中可減少63%的碳排放量，而每支「bonaqua怡漾」都是由1到1.5支回收過後的寶特瓶製成，其無標籤的設計更可大幅減少回收時分離廢棄瓶罐與標籤的繁複程序，不僅讓資源循環最大化，也對環境更友善。我們鼓勵消費者外出自帶水杯/壼，但出門在外總有不方便時，「bonaqua怡漾」則是希望提供消費者在需要購買瓶裝水時一個相對環保的選擇。",
+      "missiongreener": "",
+      "event": "<p class='mb-2'>兌換方式1：<br>現場回答相關問題，即可免費兌換一瓶「bonaqua怡漾」588ml(每人限兌換乙瓶)</p><p>兌換方式2：<br>將您手中的寶特瓶投至活動現場的寶特瓶回收機，即可免費兌換一瓶「bonaqua怡漾」588ml(每人限兌換乙瓶)</p>",
+      "link": [
+        "https://www.facebook.com/profile.php?id=100081792851873",
+        "https://www.instagram.com/bonaqua.tw/"
+      ]
     }
   }
 ]

@@ -68,6 +68,16 @@
         "href": "https://www.hao-shi.org/tw/"
       },
       {
+        "title": "農業局",
+        "image": "static/images/organizers/logotype4-11.png",
+        "href": "https://www.moa.gov.tw/"
+      },
+      {
+        "title": "崇越",
+        "image": "static/images/organizers/logotype4-16.png",
+        "href": "https://www.topco-global.com/"
+      },
+      {
         "title": "環球",
         "image": "static/images/organizers/logotype4-07.png",
         "href": "https://www.twglobalmall.com/web/global/"
@@ -78,6 +88,16 @@
         "href": "https://www.facebook.com/profile.php?id=100081792851873"
       },
       {
+        "title": "環境部",
+        "image": "static/images/organizers/logotype4-17.png",
+        "href": "https://greenlife.epa.gov.tw/"
+      },
+      {
+        "title": "雲林縣政府",
+        "image": "static/images/organizers/logotype4-18.png",
+        "href": "https://www.yunlin.gov.tw/Default.aspx"
+      },
+      {
         "title": "花蓮縣政府",
         "image": "static/images/organizers/logotype4-12.png",
         "href": "https://hlepb-lowcarbon.easylife.net.tw/"
@@ -86,6 +106,11 @@
         "title": "台灣雀巢",
         "image": "static/images/organizers/logotype4-13.png",
         "href": "https://www.nespresso.com/tw/"
+      },
+      {
+        "title": "恆隆行",
+        "image": "static/images/organizers/logotype4-19.png",
+        "href": "https://www.hengstyle.com/"
       },
       {
         "title": "歐都納",
@@ -126,6 +151,16 @@
         "title": "娘家",
         "image": "static/images/organizers/logotype5-05.png",
         "href": "https://www.ftvmall.com.tw/link/596/"
+      },
+      {
+        "title": "萬歲牌",
+        "image": "static/images/organizers/logotype5-06.png",
+        "href": "https://viva.lianhwa.com.tw/"
+      },
+      {
+        "title": "卡迪那",
+        "image": "static/images/organizers/logotype5-07.png",
+        "href": "https://cadina.lianhwa.com.tw/wc-199"
       }
     ]
   }
