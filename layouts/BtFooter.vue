@@ -8,11 +8,19 @@
     
     <div v-if="showFloatButton" class="fixed right-1 top-1/2 -translate-y-1/2 z-10">
       <button
+        v-show="isHomePage"
         class="flex items-center justify-center bg-primary px-2 py-4 rounded-full border border-white"
         @click="toSignup"
       >
         <img class="block w-5 text-white" src="../assets/images/pen-solid.svg" alt="signup">
       </button>
+      <a
+        href="https://social-plugins.line.me/lineit/share?url=https://www.businesstoday.com.tw/bt_topic/2023/missiongreener/"
+        target="blank"
+      >
+        <img class="w-9 mt-1 mx-auto" src="../assets/images/ico-line-share.svg" alt="分享到Line">
+      </a>
+      
       <!-- <button class="flex items-center justify-center" @click="useScrollTo(0)">
         <span class="relative bg-primary w-10 h-10 rounded-full scale-110 border border-white">
           <span class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/4 rotate-45 w-4 h-4 border-t-2 border-l-2 border-white" />
@@ -42,6 +50,10 @@ export default {
     const { height } = useClientSize();
     const { scrollTop } = useWindowScroll();
 
+    const route = useRoute()
+    const homePagePath = ['/', '/event', '/flow', '/signup', '/news']
+    const isHomePage = computed(() => homePagePath.some(i => i === route.path))
+
     const showFloatButton = computed(() => {
       return props.showFloat && scrollTop.value > height.value / 2;
     })
@@ -55,6 +67,7 @@ export default {
       showFloatButton,
       useScrollTo,
       toSignup,
+      isHomePage,
     }
   }
   

@@ -28,7 +28,7 @@
     </div>
 
     <Organizer />
-    <BtFooter class="relative" :showFloat="isHomePage" />
+    <BtFooter class="relative" />
     
     <ModalsContainer />
   </div>
@@ -41,10 +41,6 @@ import BtFooter from './layouts/BtFooter.vue'
 
 import { ModalsContainer } from 'vue-final-modal'
 import useClientConfig from './composables/useClientConfig'
-
-const route = useRoute()
-const homePagePath = ['/', '/event', '/flow', '/signup', '/news']
-const isHomePage = computed(() => homePagePath.some(i => i === route.path))
 
 const { isDev } = useClientConfig()
 const { data } = await useFetch(`${isDev ? '' : '.'}/static/data/info.json?${new Date().getTime()}`)
