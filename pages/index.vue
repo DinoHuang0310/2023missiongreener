@@ -4,7 +4,7 @@
 
     <div class="relative">
 
-      <Kvarea ref="contentRef" />
+      <Kvarea ref="contentRef" :prize="info.prize" />
 
       <Event id="event" :prize="info.prize" />
 

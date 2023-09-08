@@ -81,7 +81,8 @@
           <ul class="text-left pl-6 list-disc space-y-2">
             <li>
               <p>於活動日前線上報名參加「自綠生活節」，再於活動當日現場完成報到，即可獲得早鳥預約好禮。​</p>
-              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary tracking-normal xl:tracking-widest">線上報名截止時間: 2023/9/15 23:59</p>
+              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 mr-1 border border-primary tracking-normal xl:tracking-widest">線上報名截止時間: 2023/9/15 23:59</p>
+              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary tracking-normal xl:tracking-widest">每日限量250份，送完為止。</p>
             </li>
             <li>
               <p>凡於活動當日現場完成報名、報到，即可獲得抽萬元好禮資格！​</p>
@@ -89,6 +90,26 @@
             </li>
           </ul>
         </div>
+
+        <div v-if="prize.length">
+          <div class="py-4">
+            <h4 class="text-xl font-bold mb-4">會員抽獎好禮:</h4>
+            <BtSlider
+              :sliderData="prize"
+              :showNavigation="true"
+            >
+              <template v-slot:listItem="{ item }">
+                <div>
+                  <img :src="`${app.baseURL}${item.image}`" :alt="item.title">
+                  <p class="text-center text-sm">
+                    <span class="inline-block bg-primary text-white px-3 py-1 rounded-full">{{ item.title }}</span>
+                  </p>
+                </div>
+              </template>
+            </BtSlider>
+          </div>
+        </div>
+
         <div>
           <h4 class="text-xl font-bold mb-4">早鳥預約報名:</h4>
           <div class="sm:flex sm:items-center space-y-6 sm:space-y-0">
@@ -119,7 +140,7 @@
 
     <div class="flex justify-center mb-36">
       <ContentBox class="w-11/12 sm:w-2/3 lg:w-1/2 p-2 sm:p-4">
-        <BtYouTubePlayer videoId="aBU6f1Gq_g0" />
+        <BtYouTubePlayer videoId="_CSbskaaSPk" />
       </ContentBox>
     </div>
 
@@ -133,15 +154,24 @@ import useClientSize from '../../composables/useClientSize'
 import useScrollTo from '../../composables/useScrollTo'
 import ContentBox from '../../layouts/ContentBox.vue'
 import BtYouTubePlayer from '../BtYouTubePlayer/Player.vue'
+import BtSlider from '../BtSlider.vue'
 
 export default {
+  props: {
+    prize: {
+      type: Array,
+      default: []
+    },
+  },
   components: {
     ContentBox,
     BtYouTubePlayer,
-    VueFinalModal
+    VueFinalModal,
+    BtSlider
   },
-  setup() {
+  setup(props) {
     const { width, isMobile } = useClientSize(768)
+    const { app } = useRuntimeConfig()
 
     const showModal = ref(false)
     const activeId = ref(null)
@@ -246,7 +276,7 @@ export default {
       `flex items-center sm:w-1/2 md:px-8`
     ))
 
-    return { slogans, items, handleClick, activeData, showModal, toSignup, width, stepBox }
+    return { slogans, items, handleClick, activeData, showModal, toSignup, width, stepBox, app }
 
   }
 }

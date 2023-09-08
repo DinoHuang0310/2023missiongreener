@@ -1,7 +1,12 @@
 <template>
   <div class="bg-secondary bg-repeat py-16 sm:py-24" :style="{'background-image': `url(${bgImage})`}">
     <div class="container w-11/12">
-      <h2 class="title text-center mb-8 md:mb-16">報名參加</h2>
+      <article class="text-center mb-4 md:mb-12">
+        <h2 class="title mb-10">報名參加</h2>
+        <h3 class="text-2xl text-primary font-bold mb-4">自綠生活 一<span class="inline-block text-3xl text-yellow transform rotate-12 mx-1">"杯"</span>起~</h3>
+        <p class="mb-4">守護我們的地球，就從吃吃喝喝做起~<br>2023自綠生活節邀請你，帶上你的環保杯，一起加入自綠行動！</p>
+        <p>忘記帶環保餐具，怎麼辦？<br>沒關係~現場提供環保餐具的租借，讓你享受美食又能做環保！</p>
+      </article>
       <ContentBox class="md:flex md:flex-row-reverse p-4 mb-6 overflow-hidden">
         <div class="relative flex-1 py-2 px-2 sm:w-2/3 md:w-full md:px-4 md:pl-8 m-auto">
           <div class="space-y-3">
@@ -205,7 +210,7 @@ const submit = () => {
   loading.value = true
   const { isWebtest, isDev } = useClientConfig()
   const requestTarget = isWebtest ?
-    'https://events-cherry.businesstoday.com.tw/backend/missiongreener1/sign_up' :
+    'https://events-webtest.businesstoday.com.tw/backend/missiongreener1/sign_up' :
     'https://events.businesstoday.com.tw/backend/missiongreener1/sign_up';
 
   api.post(isDev ? '/static/data/signup_res.json' : requestTarget, {

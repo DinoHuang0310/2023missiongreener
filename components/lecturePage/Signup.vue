@@ -47,7 +47,7 @@
               >
                 <label class="mr-2 flex items-center">
                   <input class="w-5 mr-2 scale-125" type="checkbox" v-model="list.checked" :disabled="list.full">
-                  <span class="flex-1">{{ list.name }}</span>
+                  <span class="flex-1" v-html="list.name" />
                 </label>
                 <div v-if="list.full">已額滿</div>
                 <select
@@ -204,7 +204,7 @@ const allowSignup = computed(() => lectures.some(i => !i.full))
 
 const getLectureStatus = () => {
   const requestTarget = isWebtest ?
-    'https://events-cherry.businesstoday.com.tw/backend/missiongreener2/getDisabledSignUpId' :
+    'https://events-webtest.businesstoday.com.tw/backend/missiongreener2/getDisabledSignUpId' :
     'https://events.businesstoday.com.tw/backend/missiongreener2/getDisabledSignUpId';
 
   api.post(isDev ? '/static/data/getDisabledSignUpId.json' : requestTarget).then((res) => {
@@ -269,7 +269,7 @@ const submit = () => {
 
   loading.value = true
   const requestTarget = isWebtest ?
-    'https://events-cherry.businesstoday.com.tw/backend/missiongreener2/sign_up' :
+    'https://events-webtest.businesstoday.com.tw/backend/missiongreener2/sign_up' :
     'https://events.businesstoday.com.tw/backend/missiongreener2/sign_up';
   
   api.post(isDev ? '/static/data/signup_lecture_res.json' : requestTarget, {

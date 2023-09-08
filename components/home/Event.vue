@@ -30,7 +30,7 @@
           </div>
         </div>
 
-        <div v-if="prize.length" class="mt-6">
+        <!-- <div v-if="prize.length" class="mt-6">
           <label class="inline-block bg-yellow text-white text-sm px-4 py-1 mb-2 ml-[40px] rounded">獎項</label>
           <BtSlider
             :sliderData="prize"
@@ -57,12 +57,12 @@
               </div>
             </template>
           </BtSlider>
-        </div>
+        </div> -->
 
         <img class="hidden md:block absolute bottom-0 right-0 translate-x-3/4 translate-y-1/10" src="../../assets/images/adornment-potted2.png" alt="">
       </ContentBox>
 
-      <!--  
+       
       <ContentBox class="relative p-4 md:p-8 2xl:py-12 rounded-tl-none sm:rounded-tl-none mb-8 sm:mb-32">
         <div class="absolute top-0 left-0 w-full sm:w-auto -translate-y-full bg-primary text-white sm:text-lg font-bold text-center px-4 py-2 pr-2 rounded-tl-md rounded-tr-md">
           自綠生活節吃喝玩樂悠遊付! 筆筆享最高12%
@@ -115,7 +115,7 @@
           <button class="btn" @click="showEventModal = !showEventModal">活動完整資訊</button>
         </div>
       </ContentBox>
-      -->
+     
     </div>
 
     <VueFinalModal

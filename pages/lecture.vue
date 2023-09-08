@@ -47,7 +47,7 @@
                   <div class="flex-1 sm:pl-6 md:pl-12 mt-3 sm:mt-0">
                     <div class="sm:flex justify-between items-center text-center sm:text-left">
                       <h3 class="text-xl md:text-2xl font-bold sm:-ml-4 mb-2 sm:mb-0">「{{ list.lecture }}」</h3>
-                      <span class="inline-block tracking-widest sm:tracking-normal md:tracking-widest text-sm text-white bg-primary px-4 sm:px-3 md:px-4 py-1 md:py-2 rounded-full">
+                      <span class="inline-block whitespace-nowrap tracking-widest sm:tracking-normal md:tracking-widest text-sm text-white bg-primary px-4 sm:px-3 md:px-4 py-1 md:py-2 rounded-full">
                         {{ list.time }}
                       </span>
                     </div>
