@@ -62,7 +62,7 @@
   {
     "id": "4",
     "title": "永豐生活「淨零綠動未來」",
-    "image": "static/images/exhibition/list04-image.png?0818",
+    "image": "static/images/exhibition/list04-image.png?0901",
     "eventName": "響應淨零 我們一起+1",
     "tags": ["淨零綠動未來", "永豐生活", "汗水不白流"],
     "logo": "static/images/organizers/logotype4-03.png",
@@ -87,6 +87,21 @@
       "missiongreener": "和德昌麥當勞關心環保及環境永續議題，持續累積小改變，希望與消費者一起促成大美好。",
       "event": "",
       "link": ["https://www.mcdonalds.com/tw/zh-tw.html"]
+    }
+  },
+  {
+    "id": "13",
+    "title": "玩艸植造",
+    "image": "static/images/exhibition/list13-image.png",
+    "eventName": "玩出植物的永續價值",
+    "tags": ["水草吸管", "種出來的吸管"],
+    "logo": "static/images/exhibition/logo/exhibition13.png",
+    "contentImage": "static/images/exhibition/list13-content.png",
+    "content": {
+      "org": "我們「種植」吸管，用友善耕種的方式，與農民合作讓棄耕地產生經濟價值。我們「供應」吸管，用替換材質的方式，讓減塑輕鬆融入每個人生活日常。我們不僅僅是販售吸管本身，更期待將「草吸管」打造成全球性永續產品，透過種植、生產及販售所帶來的影響力，讓土地獲得生機、民生獲得經濟、植物發揮永續價值，讓生態與商業達成的完美平衡。我們是玩艸植造，我們信仰天然追求自然，讓環境更有未來。",
+      "missiongreener": "我們種吸管、我們賣吸管、我們改變世界",
+      "event": "",
+      "link": ["https://www.wondergreener.com/"]
     }
   },
   {
@@ -120,6 +135,21 @@
     }
   },
   {
+    "id": "12",
+    "title": "Global Mal環球購物中心",
+    "image": "static/images/exhibition/list12-image.png",
+    "eventName": "開創永續美好新生活",
+    "tags": ["永續好生活", "綠色消費力", "永續教育體驗場"],
+    "logo": "static/images/exhibition/logo/exhibition12.png",
+    "contentImage": "static/images/exhibition/list12-content.png",
+    "content": {
+      "org": "Global Mall環球購物中心以一站式服務實現日常生活的幸福，透過線上線下多管道-八家實體分店及環球Online提供創新生活娛樂購物體驗，更致力成為永續商場領航者，商場大量運用環保再生建材、推廣綠色消費，成為全台提供最多行動支付服務的百貨，並以同心圓方式擴散，攜手館內品牌推廣環境友善，更將商場打造成為永續教育體驗場，推動未來永續小學堂，舉辦大型獨家策展、親子專屬課程、多元活動，將永續向外擴散、向下扎根，全面體現永續日常新生活。",
+      "missiongreener": "推展綠色行動於日常中，共創永續美好新生活",
+      "event": "攤位舉辦環保互動遊戲，加入環球會員，即有機會獲得各式環保、居家生活小物、購物金等。",
+      "link": ["https://www.twglobalmall.com/web/global"]
+    }
+  },
+  {
     "id": "10",
     "title": "恆隆行「永續生活: 循環新選擇」",
     "image": "static/images/exhibition/list10-image.png",
@@ -128,7 +158,7 @@
     "logo": "static/images/organizers/logotype4-19.png",
     "contentImage": "static/images/exhibition/list10-content.png",
     "content": {
-      "org": "恆隆行創立於1960年，豐富生活的無限想像是公司的企業願景，提供消費者更永續的生活選擇則是我們的持續進行式，我們的永續理念與生活選擇密不可分。我們致力於打造恆式生活，引進國外高質感品牌及商品，是我們對永續生活選擇的另一種追求及倡議；是科技創新，也是精實生產且用料減量的更耐久產品；是品味形塑、酷炫潮流，也是循環使用且減少一次性消費的減塑產品。",
+      "org": "恆隆行創立於1960年，豐富生活的無限想像是公司的企業願景，提供消費者更永續的生活選擇則是我們的持續進行式，我們的永續理念與生活選擇密不可分。我們致力於打造恆式生活，引進國外高質感品牌及商品，如Braun、Coway、Corkcicle、Dyson、Honeywell、Sodastream、OXO、Vermicular等，是我們對永續生活選擇的另一種追求及倡議；是科技創新，也是精實生產且用料減量的更耐久產品；是品味形塑、酷炫潮流，也是循環使用且減少一次性消費的減塑產品。",
       "missiongreener": "共同打造永續且可循環的新生活樣態",
       "event": "[SignAct簽下你的永續主張] 現場將展示恆隆行restyle2050平台A-級產品，因展示而泛黃的清淨機，取下其泛黃機殼，邀請消費者支持自綠並簽名行動，蒐集大家的響應，會後活動中的特殊清淨機的販售所得將捐於相關環境組織或單位，發揮循環影響力。",
       "link": ["https://www.hengstyle.com/"]
@@ -151,10 +181,10 @@
   },
   {
     "id": "11",
-    "title": "義美",
+    "title": "義美食品公司",
     "image": "static/images/exhibition/list11-image.png",
-    "eventName": "",
-    "tags": [],
+    "eventName": "減少慾望．避免浪費資源．永續地球",
+    "tags": ["義美", "環保永續", "珍愛地球"],
     "logo": "static/images/organizers/logotype4-15.png",
     "contentImage": "static/images/exhibition/list11-content.png",
     "content": {
@@ -162,6 +192,21 @@
       "missiongreener": "",
       "event": "",
       "link": ["https://www.imeifoods.com.tw/"]
+    }
+  },
+  {
+    "id": "14",
+    "title": "今周刊ESG的機智生活",
+    "image": "static/images/exhibition/list14-image.png",
+    "eventName": "減少慾望．避免浪費資源．永續地球",
+    "tags": ["今周刊", "自綠生活節"],
+    "logo": "static/images/organizers/logotype1-01.png",
+    "contentImage": "static/images/exhibition/list14-image.png",
+    "content": {
+      "org": "台灣最具影響力的財經媒體，2018、2019、2022年榮獲金鼎獎「最佳財經時事雜誌」大獎。專注掌握國內外財經脈動、深度報導產業趨勢、推動台灣進步，備受各界肯定。",
+      "missiongreener": "",
+      "event": "至今周刊攤位按「今周刊出版」臉書讚打卡，並分享給朋友，就可以闖關成功。除了獲得精美小禮物，前30名加碼贈【藍氧棒】，可自製強效、天然、殺菌力高達 99.9% 的臭氧水。",
+      "link": ["https://www.businesstoday.com.tw/"]
     }
   }
 ]

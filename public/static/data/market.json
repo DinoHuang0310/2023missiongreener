@@ -61,5 +61,290 @@
         "https://www.instagram.com/bonaqua.tw/"
       ]
     }
+  },
+  {
+    "id": "5",
+    "title": "娘家保健生技",
+    "image": "static/images/market/list05-image.png",
+    "eventName": "以最好守護最愛",
+    "tags": ["每天鈣100%無添加", "支持FSC挺森林永續", "以最好守護最愛"],
+    "logo": "static/images/market/logo05.png",
+    "contentImage": "static/images/market/list05-content.png",
+    "content": {
+      "org": "堅持「以最好 守護最愛」，娘家保健生技化研為用，打造醫x學x產三強聯手的研發合作鏈，以台灣之光，守護國人健康。將世代保健作為研發主軸，為不同世代量身規劃保健產品，做到保健世代化、保健日常化、保健飲食化，以最好且有感的產品，和您一起守護家人健康。",
+      "missiongreener": "",
+      "event": "<ol class='list-decimal pl-6'><li>首加入娘家官網會員，立即獲新會員禮$300購物金</li><li>現場挺FSC與抱樹手板互動，立即獲$200購物金<br>(9/16-9/17娘家官網限時購物金$200，滿$1,000折$200，特殊優惠不得使用)</li><li>現場挺FSC抱樹手板+拍照留言於娘家FB貼文下方，立即獲益生菌6入(市價$250)</li><li>現場下單立即獲益生菌順暢5入(市價$300)<br>(數量有限送完為止)</li></ol>",
+      "link": ["https://www.ftvmall.com.tw/"]
+    }
+  },
+  {
+    "id": "6",
+    "title": "洄瀾無毒",
+    "image": "static/images/market/list06-image.png",
+    "eventName": "縱谷香氛走廊",
+    "tags": ["縱谷香氛走廊", "洄瀾無毒", "微農小舖"],
+    "logo": "static/images/organizers/logotype5-04.png?0901",
+    "contentImage": "static/images/market/list06-content.png",
+    "content": {
+      "org": "洄瀾無毒～一個來至花蓮的綠色品牌；經過6年多的努力與農友的協助和廣大粉絲的支持,我們建立起一個屬於花蓮農產品的通路系統；因此我們也開始從原物料的銷售開始轉變為進階的農產加工產的作業希望能更有效提升花蓮農產品的生命週期提升消費選項,也因此我們團隊業開始往成立品牌的初衷「對內提升花蓮農友的經濟規模；對外也改變對花蓮農農業的印象」因此我們也展開推動【縱谷香氛走廊】的工作計畫；計畫內容包含著我們對花蓮的心情及對台灣農業的想法雖然任務艱鉅,但我們還是期待能在有限的時間為花蓮為農業為台灣留下依些屬於我們的痕跡。期待花蓮成為一個「有味道的城市」更期待企業﹑合作者及粉絲的協助支持；讓花蓮成為台灣區域特色農業的前哨站。",
+      "missiongreener": "",
+      "event": "<ol class='list-decimal pl-6'><li>拍照打卡分享成功贈送絲瓜露或苦瓜露1瓶</li><li>單筆消費買488元以上贈送乖乖1包</li><li>單筆消費滿1000元參加現場抽獎活動1次禮品豐富</li></ol>",
+      "link": ["http://www.hualienntx.com/"]
+    }
+  },
+  {
+    "id": "7",
+    "title": "環境部",
+    "image": "static/images/market/list07-image.png",
+    "eventName": "淨零綠生活",
+    "tags": ["全民綠生活", "淨零綠生活", "環境部"],
+    "logo": "static/images/organizers/logotype4-17.png",
+    "contentImage": "static/images/market/list07-content.png",
+    "content": {
+      "org": "「淨零綠生活」是一種友善環境的生活方式，像是自備 杯子、餐具、使用購物袋、隨手關燈、愛惜物品等都是日常可見的綠生活行動。依據國際能源總署(IEA)的研究指出，生活行為的改變以及材料使用效率提升可以減少約8%的碳排放量。透過民眾日常生活行為的轉變，可以影響產業及商業的發展模式，促進2050淨零目標的達成。因此，淨零綠生活的推動與實踐是達成2050淨零目標的關鍵戰略。",
+      "missiongreener": "",
+      "event": "綠點兌換、各式闖關宣導品",
+      "link": ["https://greenlife.epa.gov.tw"]
+    }
+  },
+  {
+    "id": "8",
+    "title": "台灣白海豚媽祖宮",
+    "image": "static/images/market/list08-image.png",
+    "eventName": "還原棲地 生態永續",
+    "tags": ["台灣白海豚", "減塑從生活開始", "節約能源你我有責"],
+    "logo": "static/images/market/logo08.png",
+    "contentImage": "static/images/market/list08-content.png",
+    "content": {
+      "org": "台灣蠻野心足生態協會自我定位為環境法律團體，創辦人文魯彬先生最初即希望這個協會是以「環境公益訴訟」為核心業務的模式運作，其靈感來自美國的環境法律團體「EarthJustice （地球正義）」，它的口號是「Because the earth needs a good lawyer（因為地球需要一個好律師）」，希望透過各種法律管道，讓人們有責任感地使用生態系統與自然資源，維護各物種與人類共同生存的環境。所以你可以把我們看成一個法律事務所，而我們的客戶是山林水土、白海豚、農民、原住民、以及希望守護家園的人民。",
+      "missiongreener": "",
+      "event": "粉專打卡贈送明信片",
+      "link": ["https://www.wildatheart.org.tw/"]
+    }
+  },
+  {
+    "id": "9",
+    "title": "華生水",
+    "image": "static/images/market/list09-image.png",
+    "eventName": "喝純淨好水找華生",
+    "tags": ["喝純淨好水_找華生", "玻璃瓶裝水減碳_軍火庫", "容器回收_讓我們天天在淨灘"],
+    "logo": "static/images/organizers/logotype5-10.png",
+    "contentImage": "static/images/market/list09-content.png",
+    "content": {
+      "org": "華生將是您戮力於ESG企業的最佳夥伴！60餘年歷史，飲水專家，歡迎前來華生水水工廠體驗館。擁有最先進高科技淨水設備，主要販售飲水機、瓶裝水、桶裝水，每日檢驗讓您安心喝好水。提供多項優惠組合，歡迎選購。",
+      "missiongreener": "",
+      "event": "免費的玻璃瓶裝水，獲得的方案有二：<br><ol class='list-decimal pl-6'><li>打卡免費獲得</li><li>使用50元押金兌換</li></ol>",
+      "link": ["https://www.hwaseng.com.tw/"]
+    }
+  },
+  {
+    "id": "10",
+    "title": "曉鹿鳴樓-DOKI蒸鮮飯",
+    "image": "static/images/market/list10-image.png",
+    "eventName": "綠色生活 吃出健康飲食",
+    "tags": ["綠色新生活", "吃出每日健康", "推動永續供應鏈"],
+    "logo": "static/images/market/logo10.png",
+    "contentImage": "static/images/market/list10-image.png",
+    "content": {
+      "org": "曉鹿鳴樓以獲得BSI碳中和國際驗證為出發點，推動臺灣美食循環經濟發展，建立自己的品牌出海口，帶動臺灣農、林、漁、畜牧業創新，提高從業人員的收入與商品價值，並攜手消費者共同推動臺灣食品農業淨零循環經濟發展，透過自然碳匯模式，打造脫碳供應鏈，倡議餐飲永續生產及循環再利用，響應聯合國SDGs責任生產與消費，建立ESG綠色新生活。",
+      "missiongreener": "",
+      "event": "",
+      "link": []
+    }
+  },
+  {
+    "id": "11",
+    "title": "幸福久久窩",
+    "image": "static/images/market/list11-image.png",
+    "eventName": "台灣友善住宅領導品牌",
+    "tags": ["幸福久久窩", "全齡友善住宅", "包租代管社會住宅"],
+    "logo": "static/images/market/logo11.png",
+    "contentImage": "static/images/market/list11-content.png",
+    "content": {
+      "org": "<p class='mb-2'>沃盛控股集團旗下品牌-幸福久久窩，十多年來用心經營拓展租屋市場，以健全的租屋管理系統作為房東與租客最佳的橋樑，提供居住安心、安全、舒適、質感住宅，有效降低租屋糾紛。幸福久久窩專業的服務與經營成果深受政府及各界肯定，也是政府核可之社會住宅計畫協辦廠商！</p><p>幸福久久窩長期關注台灣居住議題，近年來致力推廣「全齡友善住宅」，整合共享資源及多元服務，讓不管是年輕或高齡族群，人人都能有一份歸屬感及友善的居住環境，提升台灣租屋品質，實現美好的租屋生活。</p>",
+      "missiongreener": "",
+      "event": "友善租屋線上問卷調查 填寫者可獲得幸福久久窩限量小物 數量有限送完為止",
+      "link": []
+    }
+  },
+  {
+    "id": "12",
+    "title": "寶奇生技股份有限公司",
+    "image": "static/images/market/list12-image.png",
+    "eventName": "機能蛋的領導者",
+    "tags": ["雞蛋", "友善飼養", "雞蛋管家"],
+    "logo": "static/images/market/logo12.png",
+    "contentImage": "static/images/market/list12-content.png",
+    "content": {
+      "org": "寶奇生技以永續農業之理念出發，扶植小農，用好菌、養好雞、提供大家吃好蛋，源自食品安全，創造互利共生，發展永續農 業。寶奇生技SDGs目標為2、5、12。積極推動人道友善飼養理念，改善營養及促進永續消費及生產模式。不僅雞隻健康，生產的蛋營養又美味。",
+      "missiongreener": "",
+      "event": "FB及活動貼文按讚即可獲得機能蛋2入贈品 (預計規劃中",
+      "link": ["https://www.biokeybiotech.com/"]
+    }
+  },
+  {
+    "id": "13",
+    "title": "環境友善種子｜不一樣的教育",
+    "image": "static/images/market/list13-image.png",
+    "eventName": "讓環境更美好，人心更幸福",
+    "tags": ["多元有趣的環境活動", "放下手機，走進自然", "環境行動家"],
+    "logo": "static/images/market/logo13.png",
+    "contentImage": "static/images/market/list13-content.png",
+    "content": {
+      "org": "<p class='mb-2'>環境友善種子（簡稱：友種）相信：「孩子是未來的主人，而你我都可以為永續投下一票。」</p><p class='mb-2'>氣候、生態、能源…永續議題成為我們這個世代必修的課題。友種深耕“環境教育”超過13年，致力於提供「不一樣的教育體驗」，目前在基隆（和平島）、臺北、臺南、高雄皆有服務據點，提供豐富有趣、議題多元的教育活動、營隊，培育孩子心中友善環境的種子，為永續未來主人公。</p><p>認識友種：https://www.friendlyseed.com.tw</p>",
+      "missiongreener": "",
+      "event": "<p class='mb-2'>攤位活動：<br class='md:hidden'>2-3套教材遊戲體驗，以及創意教具展示</p><p>禮贈品：<br class='mb:hidden'>臺灣野生動物貼紙</p>",
+      "link": ["https://www.friendlyseed.com.tw"]
+    }
+  },
+  {
+    "id": "14",
+    "title": "小貝殼工作坊",
+    "image": "static/images/market/list14-image.png",
+    "eventName": "皂亮希望",
+    "tags": ["小貝殼工作坊"],
+    "logo": "static/images/market/logo14.png",
+    "contentImage": "static/images/market/list14-image.png",
+    "content": {
+      "org": "小貝殼工作坊的自閉症青年努力投入手工精油皂的製作,一顆顆五彩繽紛、美麗實用的手工皂,是我們專注工作所凝聚的結晶,我們心中有一個共同的理想,為愛做出好用的皂,並在工作經驗中學習自力更生。",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.lovesoap.org/"]
+    }
+  },
+  {
+    "id": "15",
+    "title": "頭城休閒農場",
+    "image": "static/images/market/list15-image.png",
+    "eventName": "陶冶自然 暇意食光",
+    "tags": ["頭城休閒農場"],
+    "logo": "static/images/market/logo15.png",
+    "contentImage": "static/images/market/list15-image.png",
+    "content": {
+      "org": "頭城休閒農場，創設於民國68年，在尊重自然、生態環境之前提下，利用農業生產、自然生態、及農村文化等資源，提供國內外遊客休閒遊憩、及對農業及農村之親身體驗。頭城休閒農場深耕國內外市場，致力成為國內外休閒農業之標竿農場，讓國內外顧客能藉著來訪農場，進而持續不斷地看見與發現農業對生命與生活的新價值。",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.tcfarm.com.tw/"]
+    }
+  },
+  {
+    "id": "16",
+    "title": "Vast 環保手作工坊",
+    "image": "static/images/market/list16-image.png",
+    "eventName": "",
+    "tags": [],
+    "logo": "static/images/organizers/logotype5-08.png",
+    "contentImage": "static/images/market/list16-image.png",
+    "content": {
+      "org": "",
+      "missiongreener": "",
+      "event": "",
+      "link": []
+    }
+  },
+  {
+    "id": "17",
+    "title": "CULTU-RE",
+    "image": "static/images/market/list17-image.png",
+    "eventName": "發現舊物新價值",
+    "tags": ["cultu-re"],
+    "logo": "static/images/market/list17-image.png",
+    "contentImage": "static/images/market/list17-content.png",
+    "content": {
+      "org": "以發現舊物新價值為目標，設計師專注於視覺與產品設計，保留回收材料原有的使用痕跡，發掘在地文化新價值，重新尋找生活中物品的價值與意義，將不完美的、二手的、汰舊的物品，藉由設計再利用成為實用的生活物品，同時友善環境與減少浪費，讓廢棄材料透過設計，重新賦予物品意義，更具美感與實用性，將當代生活裡的汰舊材料，再製成美觀實用的物件，傳達減少捨棄的惜物精神，實踐物盡其用理想生活。",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.cultu-re.com/"]
+    }
+  },
+  {
+    "id": "18",
+    "title": "VAST",
+    "image": "static/images/market/list16-image.png",
+    "eventName": "環保機能衝浪品牌",
+    "tags": ["vast", "vastlife"],
+    "logo": "static/images/organizers/logotype5-08.png",
+    "contentImage": "static/images/market/list16-image.png",
+    "content": {
+      "org": "<p class='mb-2'>我們是一群生活的探索家，因為熱愛這片土地，對大自然著迷，藉由衝浪的能量與隨遇而安的生活方式，讓我們分享著彼此的生命、共享著自然的美好。</p><p class='mb-2'>我們秉持品牌Nature Always Wins的精神，踏出步伐，用我們做得到的方式，為熱愛的事做出小小改變，小從自己本身，到人們彼此的關係，再延伸到整個環境，Make Things Better讓任何事情能一點一點的變得更好，為這個地球帶來改變！</p><p>因衝浪而凝聚，更關心著自然與海洋，這就是我們的 #Vastlife。</p>",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.facebook.com/vastlife.tw/?locale=zh_TW"]
+    }
+  },
+  {
+    "id": "19",
+    "title": "VAST Cali Eatery & 費雪奇普仕",
+    "image": "static/images/market/list19-image.png",
+    "eventName": "南加州有機餐飲 Feat. 澳洲炸魚薯條",
+    "tags": ["VCE", "FNC"],
+    "logo": "static/images/market/logo19.png",
+    "contentImage": "static/images/market/list19-image.png",
+    "content": {
+      "org": "<p class='mb-2'>加州衝浪餐廳VCE以快餐慢食的概念，提供對身體低負擔且友善環境的創意料理，精選色彩繽紛的天然蔬果，將彩虹送上餐桌，共同擁抱自然美好。</p><p>藉由澳洲當地最代表性的點心-炸魚薯條，讓大家認識平常餐桌上的魚類食材，到了解海洋生態對我們生活的重要性。將海洋永續、環保以及魚類保育的觀念，以吃入門傳散出去。</p>",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.facebook.com/vastce?locale=zh_TW"]
+    }
+  },
+  {
+    "id": "20",
+    "title": "Bolong",
+    "image": "static/images/market/list20-image.png",
+    "eventName": "運動人的健康飲品",
+    "tags": ["BOLONG"],
+    "logo": "static/images/market/logo20.png",
+    "contentImage": "static/images/market/list20-image.png",
+    "content": {
+      "org": "關於波隆 BOLONG<br>B-old 大膽<br>O-ptimistic 樂觀<br>L-OVE 愛<br>O-rigin 初衷<br>N-atural 自然<br>G-reen 環保<br>致力於結合飲食與運動帶給人們活力與快樂。<br>喜歡分享日常中的美好也熱愛接近大自然，<br>積極參與環保活動並極力鼓勵戶外運動，<br>支持運動員和各項運動賽事。<br>希望透過咖啡和運動結合成為每個人生活中的快樂美好。<br>運動人的咖啡 波隆咖啡 Bolong Cafe!<br>「BOLONG 波隆，不只是名詞是一種生活風格，更是 ”動詞”“無限可能”」",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.facebook.com/bolongcafe/"]
+    }
+  },
+  {
+    "id": "21",
+    "title": "海· 坡 Haiipooooo",
+    "image": "static/images/market/list21-image.png",
+    "eventName": "海洋生物雞蛋糕",
+    "tags": ["haiipooooo", "海坡雞蛋糕"],
+    "logo": "static/images/market/logo21.png",
+    "contentImage": "static/images/market/list21-image.png",
+    "content": {
+      "org": "海坡，出自於熱愛大自然山坡與海洋喜愛挑戰自己，享受大山大海的遼闊與包容<br>熱愛山海的海．坡，簡單材料用心創造出的美好味道，海洋動物脆皮雞蛋糕<br>來一份！絕對心情好沒煩惱！<br>海坡脆皮海洋雞蛋糕<br>現點現做講求食材新鮮用料<br>麵粉採用：日本鑽石麵粉<br>鮮奶採用：安佳鮮乳<br>雞蛋採用：精選洗選雞蛋<br>（無添加任一滴水及香精成份）<br>現場現點現做，懇請耐心等候！",
+      "missiongreener": "",
+      "event": "",
+      "link": ["https://www.instagram.com/haiipooooo/"]
+    }
+  },
+  {
+    "id": "22",
+    "title": "Zero Bottle",
+    "image": "static/images/market/list22-image.png",
+    "eventName": "用容器循環 改變消費模式",
+    "tags": ["zerobottle"],
+    "logo": "static/images/market/logo22.png",
+    "contentImage": "static/images/market/list22-image.png",
+    "content": {
+      "org": "<p class='mb-2'>「用瓶器循環, 改變生活用品一次性的消費模式, 創造對環境與未更永續的生活願景」</p><p class='mb-2'>全台首創【循環瓶器服務】推出個人清潔洗沐用品, 於官網與實體店鋪販售商品; 消費者使用完後, 可於指定合作返航據點歸還, 並獲得優惠購物金; 最後統一回收清洗、填充與配送回通路重新販售!</p><p>達到減少塑料廢棄物的目標, 打造兼具質感、專業與環境友善的產品, 讓綠色經濟輕鬆走入生活日常!!</p>",
+      "missiongreener": "",
+      "event": "",
+      "link": ["http://zerobottletw.com/"]
+    }
+  },
+  {
+    "id": "23",
+    "title": "BESV 智慧動能電輔車",
+    "image": "static/images/market/list23-image.png",
+    "eventName": "Experience Amazing!",
+    "tags": ["BESV"],
+    "logo": "static/images/market/logo23.png",
+    "contentImage": "static/images/market/list23-image.png",
+    "content": {
+      "org": "BESV於2014年所創立，致力於推廣永續綠能的微型移動方案，研發兼具美觀及性能的高規格電動輔助自行車(Smart e-Bike)。<br>BESV對於地球保有永續共生的堅持，產品堅持環境最友善的生產方式。並在提供輕鬆騎乘的全新體驗外，帶給每位消費者不同凡響的驚奇體驗。<br><br>自綠宣言<br>BESV不斷發現精彩的我",
+      "missiongreener": "",
+      "event": "攤位活動<br>一騎做環保，體驗試乘送品牌環保帆布袋！<br><br>活動期間：2023/9/16-9/17<br>活動辦法：至BESV攤位體驗試乘BESV電輔車，和BESV電輔車拍照打卡就送「BESV品牌帆布袋」！",
+      "link": ["https://www.besv.com.tw/"]
+    }
   }
 ]

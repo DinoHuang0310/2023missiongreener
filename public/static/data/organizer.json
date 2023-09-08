@@ -1,5 +1,15 @@
 [
   {
+    "title": "指導單位",
+    "list": [
+      {
+        "title": "文化部",
+        "image": "static/images/organizers/logotype2-01.png",
+        "href": "https://www.moc.gov.tw/"
+      }
+    ]
+  },
+  {
     "title": "主辦單位",
     "list": [
       {
@@ -144,7 +154,7 @@
       },
       {
         "title": "洄瀾無毒",
-        "image": "static/images/organizers/logotype5-04.png",
+        "image": "static/images/organizers/logotype5-04.png?0901",
         "href": "http://www.hualienntx.com/"
       },
       {
@@ -161,6 +171,21 @@
         "title": "卡迪那",
         "image": "static/images/organizers/logotype5-07.png",
         "href": "https://cadina.lianhwa.com.tw/wc-199"
+      },
+      {
+        "title": "VAST",
+        "image": "static/images/organizers/logotype5-08.png",
+        "href": "https://www.facebook.com/vastlife.tw"
+      },
+      {
+        "title": "仁舟淨塑",
+        "image": "static/images/organizers/logotype5-09.png",
+        "href": "https://www.zenzhoultd.com/"
+      },
+      {
+        "title": "華生",
+        "image": "static/images/organizers/logotype5-10.png",
+        "href": "https://www.hwaseng.com.tw/"
       }
     ]
   }

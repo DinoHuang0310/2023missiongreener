@@ -1,7 +1,7 @@
 {
   "lectures": [
     {
-      "name": "9/16(六)「麥當勞包裝的多元循環解方」",
+      "name": "9/16(六)「麥當勞包裝的多元循環解方」<br><span style='padding-left: 4rem'>「綠色日常輕鬆做」</span>",
       "code": "0916a",
       "full": true,
       "checked": false,
@@ -45,6 +45,13 @@
     {
       "name": "9/17(日)「劇場裡的永續實踐」",
       "code": "0917c",
+      "full": true,
+      "checked": false,
+      "attendances": "1"
+    },
+    {
+      "name": "9/17(日)「衝浪教會我們的ESG」",
+      "code": "0917e",
       "full": true,
       "checked": false,
       "attendances": "1"

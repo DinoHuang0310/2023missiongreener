@@ -3,6 +3,41 @@
   "registrable": true,
   "deadlineMsg": "<div class='text-center'><h4 class='text-xl xl:text-2xl mb-2'>報名已截止</h4><p>本活動報名已截止，感謝您的支持。</p></div>",
   "prize": [
+    {
+      "title": "50吋 4K液晶顯示器",
+      "image": "static/images/prize/prize01.png",
+      "description": ""
+    },
+    {
+      "title": "iPad 10",
+      "image": "static/images/prize/prize02.png",
+      "description": ""
+    },
+    {
+      "title": "iPhone 14",
+      "image": "static/images/prize/prize03.png",
+      "description": ""
+    },
+    {
+      "title": "果汁機",
+      "image": "static/images/prize/prize04.png",
+      "description": ""
+    },
+    {
+      "title": "10吋循環扇",
+      "image": "static/images/prize/prize05.png",
+      "description": ""
+    },
+    {
+      "title": "仿手沖咖啡機",
+      "image": "static/images/prize/prize06.png",
+      "description": ""
+    },
+    {
+      "title": "18L電烤箱",
+      "image": "static/images/prize/prize07.png",
+      "description": ""
+    }
   ],
   "news": [
     {
