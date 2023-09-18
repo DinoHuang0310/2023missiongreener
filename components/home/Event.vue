@@ -26,6 +26,9 @@
             <div class="flex-1 pl-6">
               <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">step2</label>
               <p>完成所有關卡，兌換好禮！​</p>
+              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary tracking-normal xl:tracking-widest">
+                數量有限，換完為止
+              </p>
             </div>
           </div>
         </div>
@@ -88,7 +91,7 @@
             </div>
             <div class="flex-1 md:pl-6">
               <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">活動二</label>
-              <p>民眾至「自綠生活節」活動現場的大會服務台出示悠遊付APP內的「我的減碳紀錄」，只要出示減碳量成果，送限定悠遊卡1張  (卡娜赫拉的小動物造型悠遊卡-新年如意、卡娜赫拉的小動物造型悠遊卡-祝福、高山巖福德宮發財悠遊卡三款隨機出貨，恕不挑選)。</p>
+              <p>民眾至「自綠生活節」活動現場的大會服務台出示悠遊付APP內的「我的減碳存摺」，只要出示減碳量成果，送限定悠遊卡1張  (卡娜赫拉的小動物造型悠遊卡-新年如意、卡娜赫拉的小動物造型悠遊卡-祝福、高山巖福德宮發財悠遊卡三款隨機出貨，恕不挑選)。</p>
               <ul class="list-['※'] pl-5 mt-2 text-primary text-sm font-bold">
                 <li>活動期間每人限贈1 張，每日限量100張，數量有限，送完為止。</li>
               </ul>
@@ -152,7 +155,7 @@
         </div>
         <div>
           <label class="inline-block bg-yellow text-white text-sm px-2 py-1 mb-1 rounded">活動二</label>
-          <p>民眾至「自綠生活節」活動現場的大會服務台出示悠遊付APP內的「我的減碳紀錄」，只要出示減碳量成果，送限定悠遊卡1張 (卡娜赫拉的小動物造型悠遊卡-新年如意、卡娜赫拉的小動物造型悠遊卡-祝福、高山巖福德宮發財悠遊卡三款隨機出貨，恕不挑選)。</p>
+          <p>民眾至「自綠生活節」活動現場的大會服務台出示悠遊付APP內的「我的減碳存摺」，只要出示減碳量成果，送限定悠遊卡1張 (卡娜赫拉的小動物造型悠遊卡-新年如意、卡娜赫拉的小動物造型悠遊卡-祝福、高山巖福德宮發財悠遊卡三款隨機出貨，恕不挑選)。</p>
           <div class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary">
             活動期間每人限贈1 張，每日限量100張，數量有限，送完為止。
           </div>

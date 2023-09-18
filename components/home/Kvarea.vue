@@ -86,7 +86,12 @@
             </li>
             <li>
               <p>凡於活動當日現場完成報名、報到，即可獲得抽萬元好禮資格！​</p>
-              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary tracking-normal xl:tracking-widest">中獎者須在現場</p>
+              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 mr-1 border border-primary tracking-normal xl:tracking-widest">
+                中獎者須在現場
+              </p>
+              <p class="inline-block text-sm text-primary font-bold px-2 py-0.5 mt-1 border border-primary tracking-normal xl:tracking-widest">
+                活動期間每日14:30/17:30於活動Line帳號公布獲獎序號及獎項。
+              </p>
             </li>
           </ul>
         </div>
